@@ -1,0 +1,176 @@
+{
+	"title": {
+		"media": {
+			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
+			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
+			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+		},
+		"text": {
+			"headline": "Whitney Houston<br/> 1963 - 2012",
+			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+		}
+	},
+	"events": [
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Louis_XIV_of_France.jpg/800px-Louis_XIV_of_France.jpg",
+            "caption": "Portrait of Louis XIV",
+            "credit": "Artist: Hyacinthe Rigaud via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "5",
+            "day": "14",
+            "year": "1643"
+          },
+          "text": {
+            "headline": "Reign of Louis XIV Begins",
+            "text": "<p>The reign of Louis XIV, also known as the Sun King, began on May 14, 1643, and lasted until his death in 1715, marking a significant period of French history characterized by absolutist monarchy.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/French_Revolutionary_Wars.jpg/800px-French_Revolutionary_Wars.jpg",
+            "caption": "French Revolutionary Wars",
+            "credit": "Artist: Hippolyte Bellangé via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "4",
+            "day": "20",
+            "year": "1792"
+          },
+          "text": {
+            "headline": "French Revolutionary Wars Begin",
+            "text": "<p>The French Revolutionary Wars commenced on April 20, 1792, marking a significant period of conflict between revolutionary France and various European powers.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bastille-FPM.jpg/800px-Bastille-FPM.jpg",
+            "caption": "Storming of the Bastille",
+            "credit": "Artist: Jean-Pierre Houël via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "7",
+            "day": "14",
+            "year": "1789"
+          },
+          "text": {
+            "headline": "Storming of the Bastille",
+            "text": "<p>The storming of the Bastille on July 14, 1789, marked a pivotal moment in the French Revolution, symbolizing the start of the overthrow of the monarchy.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Proclamation_of_the_Third_Republic.jpg/800px-Proclamation_of_the_Third_Republic.jpg",
+            "caption": "Proclamation of the Third French Republic",
+            "credit": "Artist: Henri Felix Emmanuel Philippoteaux via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "9",
+            "day": "4",
+            "year": "1870"
+          },
+          "text": {
+            "headline": "Proclamation of the Third French Republic",
+            "text": "<p>The Third French Republic was proclaimed on September 4, 1870, following the collapse of the Second Empire after France's defeat in the Franco-Prussian War.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Versailles_treaty_1919.jpg/800px-Versailles_treaty_1919.jpg",
+            "caption": "Signing of the Treaty of Versailles",
+            "credit": "Artist: Unknown author via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "6",
+            "day": "28",
+            "year": "1919"
+          },
+          "text": {
+            "headline": "Treaty of Versailles Signed",
+            "text": "<p>The Treaty of Versailles was signed on June 28, 1919, officially ending World War I and imposing heavy penalties on Germany.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Charles_de_Gaulle_-_1961.jpg/800px-Charles_de_Gaulle_-_1961.jpg",
+            "caption": "Charles de Gaulle",
+            "credit": "Artist: Unknown author via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "6",
+            "day": "18",
+            "year": "1940"
+          },
+          "text": {
+            "headline": "Charles de Gaulle's Appeal",
+            "text": "<p>On June 18, 1940, Charles de Gaulle, leader of the Free French Forces, made a broadcast urging the French to resist the German occupation during World War II.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Signing_Treaty_of_Paris_1783.jpg/800px-Signing_Treaty_of_Paris_1783.jpg",
+            "caption": "Signing of the Treaty of Paris",
+            "credit": "Artist: Benjamin West via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "9",
+            "day": "3",
+            "year": "1783"
+          },
+          "text": {
+            "headline": "Treaty of Paris Signed",
+            "text": "<p>The Treaty of Paris was signed on September 3, 1783, formally ending the American Revolutionary War and recognizing the independence of the United States from Great Britain.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Napoleon_-_face_%28Galerie_des_Batailles%2C_Versailles%29.jpg/800px-Napoleon_-_face_%28Galerie_des_Batailles%2C_Versailles%29.jpg",
+            "caption": "Portrait of Napoleon Bonaparte",
+            "credit": "Artist: François Gérard via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "5",
+            "day": "18",
+            "year": "1804"
+          },
+          "text": {
+            "headline": "Napoleon Bonaparte Crowned Emperor",
+            "text": "<p>Napoleon Bonaparte was crowned Emperor of the French on May 18, 1804, establishing the First French Empire.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tour_Eiffel_Wikimedia_Commons.jpg/800px-Tour_Eiffel_Wikimedia_Commons.jpg",
+            "caption": "Eiffel Tower",
+            "credit": "Photographer: Benh LIEU SONG via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "3",
+            "day": "31",
+            "year": "1889"
+          },
+          "text": {
+            "headline": "Eiffel Tower Inaugurated",
+            "text": "<p>The Eiffel Tower, an iconic symbol of France, was inaugurated on March 31, 1889, and has since become a global architectural marvel.</p>"
+          }
+        },
+        {
+          "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Liberation_of_Paris_-_August_1944.jpg/800px-Liberation_of_Paris_-_August_1944.jpg",
+            "caption": "Liberation of Paris",
+            "credit": "Unknown author via Wikimedia Commons"
+          },
+          "start_date": {
+            "month": "8",
+            "day": "25",
+            "year": "1944"
+          },
+          "text": {
+            "headline": "Liberation of Paris",
+            "text": "<p>The Liberation of Paris began on August 25, 1944, as the French Forces of the Interior and the Allies liberated the city from German occupation during World War II.</p>"
+          }
+        }
+      ]
+      
+}
