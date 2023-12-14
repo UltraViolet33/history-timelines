@@ -1,6 +1,11 @@
 {
   "events": [
     {
+      "media": {
+        "caption": "Clovis Ier - Si\u00e8ge de Soissons",
+        "credit": "Master of the City of Ladies, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Battle_of_Soissons.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -45,6 +50,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Buste de Henri IV portant la croix du Saint-Esprit (1553-1610)",
+        "credit": "Frans Pourbus le Jeune, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/King_Henry_IV_of_France.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -67,6 +77,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Richelieu au blocus de la Rochelle",
+        "credit": "Henri-Paul Motte, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Siege_of_La_Rochelle_1881_Henri_Motte.png"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -89,6 +104,11 @@
       }
     },
     {
+      "media": {
+        "caption": "\u0152uvre de Bouchot repr\u00e9sentant le conseil des Cinq-Cents lors du coup d'\u00e9tat du 18 Brumaire",
+        "credit": "Fran\u00e7ois Bouchot, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -100,6 +120,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Soldats fran\u00e7ais du 87e r\u00e9giment pr\u00e8s de Verdun (France) en 1916.",
+        "credit": "French photographer, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/French_87th_Regiment_Cote_34_Verdun_1916.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -155,6 +180,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Vercingetorix jette ses armes aux pieds de Jules C\u00e9sar",
+        "credit": "Lionel Royer, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Siege-alesia-vercingetorix-jules-cesar.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -166,6 +196,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Bataille de Poitiers, en octobre 732",
+        "credit": "Charles de Steuben, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -177,6 +212,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Sacre de Charlemagne, en 800",
+        "credit": "Jean Fouquet, Tours, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sacre_de_Charlemagne.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -188,6 +228,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Jeanne d'Arc en armure devant Orl\u00e9ans",
+        "credit": "Eug\u00e8ne Lenepveu, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -210,6 +255,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Portrait de Louis XIV en costume de sacre",
+        "credit": "Hyacinthe Rigaud, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -254,6 +304,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Le g\u00e9n\u00e9ral Charles de Gaulle au micro de la BBC \u00e0 Londres, 1941.",
+        "credit": "Auteur inconnuUnknown author (BBC), Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Charles_de_Gaulle_au_micro_de_la_BBC.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
@@ -298,6 +353,11 @@
       }
     },
     {
+      "media": {
+        "caption": "Le Sacre de Napol\u00e9on.",
+        "credit": "Jacques-Louis David, Public domain, via Wikimedia Commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jacques-Louis_David%2C_The_Coronation_of_Napoleon.jpg"
+      },
       "start_date": {
         "day": "",
         "month": "",
