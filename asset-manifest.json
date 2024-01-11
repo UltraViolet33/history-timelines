@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/history-timelines/static/css/main.31d6cfe0.css",
+    "main.js": "/history-timelines/static/js/main.503b5c62.js",
+    "index.html": "/history-timelines/index.html",
+    "main.503b5c62.js.map": "/history-timelines/static/js/main.503b5c62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.503b5c62.js"
+  ]
+}
