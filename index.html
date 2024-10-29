@@ -1,43 +1,58 @@
 <html>
-  <head>
-    <link
-      title="timeline-styles"
-      rel="stylesheet"
-      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css"
-    />
-    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
-    <script
-      src="https://code.jquery.com/jquery-3.6.0.min.js"
-      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-      crossorigin="anonymous"
-    ></script>
 
-    <script
-      type="text/javascript"
-      language="javascript"
-      src="whitney.json"
-    ></script>
+<head>
+  <link title="timeline-styles" rel="stylesheet"
+    href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css" />
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script type="text/javascript">
 
-    <script type="text/javascript">
-      $.getJSON("france.json", function (data) {
-        var timeline_json = data;
-        window.timeline = new TL.Timeline("timeline-embed", timeline_json);
+    $.getJSON("timelines.json", function (data) {
+      var timelines = data;
+      var select = $("#timelines");
+
+      $.each(timelines, function (index, timeline) {
+        var option = $("<option></option>")
+          .attr("value", index)
+          .text(timeline.title.text.headline);
+        select.append(option);
       });
-    </script>
-    <style>
-      /* Adjust the timeline-embed container for responsiveness */
-      #timeline-embed {
-        width: 100%;
-        height: 100%;
+
+      select.change(function () {
+        var index = $(this).val();
+        var timeline = timelines[index];
+        window.timeline = new TL.Timeline("timeline-embed", timeline);
+      });
+
+      select.trigger("change");
+    });
+
+  </script>
+  <style>
+    #timeline-embed {
+      width: 100%;
+      height: 100%;
+    }
+
+    @media (max-width: 1000px) {
+      .tl-timeline p {
+        font-size: 36px !important;
       }
-      @media (max-width: 1000px) {
-        .tl-timeline p {
-          font-size: 36px !important ;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="timeline-embed"></div>
-  </body>
+    }
+  </style>
+</head>
+
+<body>
+  <div style="display: flex; flex-direction:column; align-items:center ">
+    <h3>Choose a timeline</h3>
+    <div>
+      <select id="timelines">
+      </select>
+    </div>
+  </div>
+
+  <div id="timeline-embed"></div>
+</body>
+
 </html>

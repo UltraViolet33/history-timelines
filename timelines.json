@@ -1,0 +1,446 @@
+[
+    {
+        "events": [
+            {
+                "media": {
+                    "caption": "Clovis Ier - Si\u00e8ge de Soissons",
+                    "credit": "Master of the City of Ladies, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Battle_of_Soissons.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 486
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Bataille de Soissons : Une arm\u00e9e franque sous les ordres de Clovis Ier bat Syagrius et conquiert le domaine de Soissons.\u00a0"
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1214
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Victoire de Phillippe II Auguste lors de la bataille de Bouvines."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1415
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Bataille d'Azincourt : Une perte majeure pour les Fran\u00e7ais dans la guerre de Cent Ans"
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1572
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Massacre des protestants fran\u00e7ais \u00e0 la Saint-Barth\u00e9lemy."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Buste de Henri IV portant la croix du Saint-Esprit (1553-1610)",
+                    "credit": "Frans Pourbus le Jeune, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/King_Henry_IV_of_France.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1598
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Henri IV promulgue l'\u00e9dit de Nantes pour mettre fin \u00e0 la guerre de religion en France."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1610
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Le roi Henri IV meurt, assassin\u00e9 par Fran\u00e7ois Ravaillac. Son fils a\u00een\u00e9 Louis XIII lui succ\u00e8de, sous la r\u00e9gence de M\u00e9dicis."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Richelieu au blocus de la Rochelle",
+                    "credit": "Henri-Paul Motte, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Siege_of_La_Rochelle_1881_Henri_Motte.png"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1624
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Le cardinal de Richelieu devient Premier ministre de Louis XIII."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1643
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Louis XIII meurt. Son fils Louis XIV, \u00e2g\u00e9 de cinq ans, lui succ\u00e8de. Le cardinal Mazarin devient r\u00e9gent."
+                }
+            },
+            {
+                "media": {
+                    "caption": "\u0152uvre de Bouchot repr\u00e9sentant le conseil des Cinq-Cents lors du coup d'\u00e9tat du 18 Brumaire",
+                    "credit": "Fran\u00e7ois Bouchot, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1799
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Coup d'etat du 18 Brumaire. Fin du Directoire et d\u00e9but du Consulat dont Napol\u00e9on Bonaparte est le Premier Consul."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Soldats fran\u00e7ais du 87e r\u00e9giment pr\u00e8s de Verdun (France) en 1916.",
+                    "credit": "French photographer, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/French_87th_Regiment_Cote_34_Verdun_1916.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1914
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but de la Premi\u00e8re Guerre Mondiale."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1918
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Fin de la Premi\u00e8re Guerre Mondiale."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1939
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but de la Seconde Guerre Mondiale."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1940
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but de la bataille de France."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1944
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9barquement alli\u00e9 en Normandie."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Vercingetorix jette ses armes aux pieds de Jules C\u00e9sar",
+                    "credit": "Lionel Royer, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Siege-alesia-vercingetorix-jules-cesar.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": -52
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9faite de Vercing\u00e9torix face \u00e0 Jules C\u00e9sar \u00e0 Al\u00e9sia."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Bataille de Poitiers, en octobre 732",
+                    "credit": "Charles de Steuben, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 732
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9faite des Musulmans \u00e0 Poitiers face \u00e0 Charles Martel."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Sacre de Charlemagne, en 800",
+                    "credit": "Jean Fouquet, Tours, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sacre_de_Charlemagne.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 800
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Sacre de l\u2019Empereur d'Occident Charlemagne \u00e0 Rome."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Jeanne d'Arc en armure devant Orl\u00e9ans",
+                    "credit": "Eug\u00e8ne Lenepveu, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1429
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Lib\u00e9ration d\u2019Orl\u00e9ans par Jeanne d\u2019Arc contre les Anglais"
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1515
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Victoire de Fran\u00e7ois 1er \u00e0 Marignan."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Portrait de Louis XIV en costume de sacre",
+                    "credit": "Hyacinthe Rigaud, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1661
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but du long r\u00e8gne de Louis XIV, le Roi Soleil."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1789
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Prise de la Bastille par les r\u00e9volutionnaires fran\u00e7ais."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1815
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9faite de Waterloo. Exil de Napol\u00e9on Ier \u00e0 Sainte-H\u00e9l\u00e8ne. Restauration de la monarchie."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1848
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Abdication de Louis Philippe. Proclamation de la 2e r\u00e9publique."
+                }
+            },
+            {
+                "media": {
+                    "caption": "Le g\u00e9n\u00e9ral Charles de Gaulle au micro de la BBC \u00e0 Londres, 1941.",
+                    "credit": "Auteur inconnuUnknown author (BBC), Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Charles_de_Gaulle_au_micro_de_la_BBC.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1940
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Appel du G\u00e9n\u00e9ral de Gaulle depuis Londres qui appelle \u00e0 la r\u00e9sistance contre l'Allemagne."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1958
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but de la 5e R\u00e9publique."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 987
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Sacre du roi Cap\u00e9tien Hugues Capet."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1270
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Mort de Saint Louis \u00e0 Tunis lors de la 8e et derni\u00e8re croisade"
+                }
+            },
+            {
+                "media": {
+                    "caption": "Le Sacre de Napol\u00e9on.",
+                    "credit": "Jacques-Louis David, Public domain, via Wikimedia Commons",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jacques-Louis_David%2C_The_Coronation_of_Napoleon.jpg"
+                },
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1804
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Sacre de Napol\u00e9on Ier, Empereur des fran\u00e7ais"
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1871
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9faite du Second Empire contre la Prusse. D\u00e9but de la Troisi\u00e8me R\u00e9publique."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1337
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but de la guerre de 100 ans contre l'Angleterre."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1793
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Ex\u00e9cution de Louis XVI dit Louis Capet par les r\u00e9volutionnaires fran\u00e7ais."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1852
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Coup d'Etat de Louis-Napol\u00e9on Bonaparte. D\u00e9but du Second Empire"
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1945
+                },
+                "text": {
+                    "headline": "",
+                    "text": "Capitulation de l'Allemagne."
+                }
+            },
+            {
+                "start_date": {
+                    "day": "",
+                    "month": "",
+                    "year": 1954
+                },
+                "text": {
+                    "headline": "",
+                    "text": "D\u00e9but de la guerre d'Alg\u00e9rie"
+                }
+            }
+        ],
+        "title": {
+            "text": {
+                "headline": "France history",
+                "text": "France history"
+            }
+        }
+    }
+]

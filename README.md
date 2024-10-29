@@ -1,3 +1,4 @@
-## France history timeline
+## History timelines
 
-Just a timeline about France history
+Several history timelines:
+- France history
